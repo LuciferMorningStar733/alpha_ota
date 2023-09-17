@@ -23,6 +23,30 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}
+		},
+                {
+                        "maintainer": "LuciferMorningStar733",
+                        "oem": "xiaomi",
+                        "device": "veux",
+                        "filename": "AlphaDroid-13.0-20230917-veux-gapps-v1.8.zip",
+                        "download": "https://sourceforge.net/projects/mark-builds/files/veux/alpha/AlphaDroid-13.0-20230917-veux-gapps-v1.8.zip/download",
+                        "timestamp": 1694921408,
+                        "md5": "86c3b8e88cfff39b15a16f298d475cdb",
+                        "sha256": "46da2b34cfbb93f7c317f73069f388adfdfce8ad0f70901df144039e45abc8c0",
+                        "size": 1556545641,
+                        "version": "1.8",
+                        "buildtype": "gapps",
+                        "forum": "https://t.me/markbuilds",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
 	]
 }
